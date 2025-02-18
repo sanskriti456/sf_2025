@@ -10,7 +10,7 @@ Original file is located at
 import streamlit as st
 import retriever_utils as rutils
 
-IMAGE_ADDRESS = "https://miro.medium.com/v2/resize:fit:1400/0*50gYIhjGFFd82BuF
+IMAGE_ADDRESS = "https://miro.medium.com/v2/resize:fit:1400/0*50gYIhjGFFd82BuF"
 
 # web application
 st.title("Image extractor")
