@@ -13,7 +13,7 @@ import retriever_utils as rutils
 IMAGE_ADDRESS = "https://miro.medium.com/v2/resize:fit:1400/0*50gYIhjGFFd82BuF
 
 # web application
-st.title("Image Extractor")
+st.title("Image extractor")
 st.image(IMAGE_ADDRESS)
 # set up the user query
 user_query = st.text_input("Describe the Image you want in few words")
